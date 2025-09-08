@@ -60,6 +60,6 @@ If you like this project or have suggestions, feel free to connect on **LinkedIn
 jyoti-yadav-28954234b]
 
 ---
-
-#️⃣ **Tags:**  
+<img scr = "https://github.com/Jyoti931930/Pizza-Sales-Analysis/blob/main/Pizza_Dashboard.png" altr="MLCD">
+ 
 `#Excel` `#SQL` `#Dashboard` `#DataAnalytics` `#BusinessIntelligence` 
