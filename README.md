@@ -29,7 +29,9 @@ It provides interactive visualizations, business KPIs, and detailed insights fro
 - **Category Contribution:** % Sales by Pizza Category  
 - **Size Contribution:** % Sales by Pizza Size  
 - **Top 5 Best Sellers:** Based on total pizzas sold  
-- **Bottom 5 Sellers:** Identify least popular pizzas  
+- **Bottom 5 Sellers:** Identify least popular pizzas
+
+- ![Pizza-Sales-Analysis](Pizza_Dashboard.png)
 
 ---
 
@@ -60,7 +62,4 @@ If you like this project or have suggestions, feel free to connect on **LinkedIn
 jyoti-yadav-28954234b]
 
 ---
-![Pizza-Sales-Analysis](Pizza_Dashboard.png)
-
- 
 `#Excel` `#SQL` `#Dashboard` `#DataAnalytics` `#BusinessIntelligence` 
